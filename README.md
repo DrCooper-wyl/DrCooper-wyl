@@ -1,4 +1,4 @@
-👋 Hi, I’m @Yilin Wang
+<!--👋 Hi, I’m @Yilin Wang
 - 👀 I’m from University of Macau
 - 🌱 I’m currently learning math/stats/data science/cs
 <!-- 💞️ I’m looking to collaborate on ...
